@@ -1,3 +1,9 @@
+
+####
+# By:AM7
+# dataset: https://www.floydhub.com/ahmedmoorsy/datasets/clothes
+####
+
 import os
 import cv2                 
 import numpy as np                     
