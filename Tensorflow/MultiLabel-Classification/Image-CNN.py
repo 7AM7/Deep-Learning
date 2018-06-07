@@ -26,7 +26,7 @@ import math
 
 PATH_ = "dataset"
 LR = 1e-3 # 0.001
-EPOCHS = 2
+EPOCHS = 20
 IMG_SIZE = 96
 
 MODEL_NAME = '_clothsCategories-{}-{}.model'.format(LR, 'CNN')
