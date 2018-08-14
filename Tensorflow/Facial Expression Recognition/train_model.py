@@ -19,7 +19,7 @@ from sklearn.model_selection import train_test_split
 from keras.applications import imagenet_utils
 import math
 import pickle
-form model import Build_Model
+from model import Build_Model
 
 PATH_ = "Kaggle/Facial_Expression_Recognition/"
 LR = 1e-3 # 0.001
